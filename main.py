@@ -2,8 +2,8 @@
 import discord
 from pynput import keyboard
 
-TOKEN = 'MTA5Nzg0NzgwNDYxOTE0OTM0Mg.GtDNXy.2YPigTioUWNh3VLNSdUWxMoioY4Q9eV7dx0mdo'
-CHANNEL_ID = 1027589771356295294
+TOKEN = ''
+CHANNEL_ID = 
 
 intents = discord.Intents.default()
 intents.typing = False
